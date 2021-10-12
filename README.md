@@ -1,2 +1,2 @@
 # InfoFetch
-Info gathering | API hacketarget.com
+Info gathering | API hackertarget.com
